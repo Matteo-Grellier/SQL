@@ -1,0 +1,4674 @@
+{
+    "error": false,
+    "message": "next.showtime.on",
+    "results": [{
+        "movie": {
+            "synopsis": "Dans le monde paisible du Petit Nicolas, il y a Papa, Maman, l\u2019\u00e9cole, mais surtout, sa bande de copains. Ils s\u2019appellent Les Invincibles, mais ils sont avant tout ins\u00e9parables. Quand Papa re\u00e7oit une promotion et annonce que la famille doit d\u00e9m\u00e9nager dans le sud de la France, le petit monde de Nicolas s\u2019effondre...",
+            "synopsisFull": "Dans le monde paisible du Petit Nicolas, il y a Papa, Maman, l\u2019\u00e9cole, mais surtout, sa bande de copains. Ils s\u2019appellent Les Invincibles, mais ils sont avant tout ins\u00e9parables. Du moins le pensent-ils. Car quand Papa re\u00e7oit une promotion et annonce que la famille doit d\u00e9m\u00e9nager dans le sud de la France, le petit monde de Nicolas s\u2019effondre.Comment imaginer la vie sans ses meilleurs amis ? Sans les croissants d\u2019Alceste, les lunettes d\u2019Agnan, les b\u00eatises de Clotaire, loin de leur cher terrain vague ? Aid\u00e9 par ses copains, Nicolas se met en qu\u00eate d\u2019un myst\u00e9rieux tr\u00e9sor qui pourrait lui permettre d\u2019emp\u00eacher ce terrible d\u00e9m\u00e9nagement.",
+            "__typename": "Movie",
+            "internalId": 285904,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NDI2Njk=",
+                "internalId": 21842669,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/07\/22\/17\/09\/4375094.jpg",
+                "path": "\/pictures\/21\/07\/22\/17\/09\/4375094.jpg"
+            },
+            "title": "Le Tr\u00e9sor du Petit Nicolas",
+            "originalTitle": "Le Tr\u00e9sor du Petit Nicolas",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 43min",
+            "genres": [{
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }, {
+                "id": 13036,
+                "translate": "Famille",
+                "tag": "FAMILY"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 3.23,
+                    "count": 34
+                },
+                "userReview": {
+                    "count": 5
+                },
+                "pressReview": {
+                    "score": 2.9,
+                    "count": 20
+                },
+                "metric": {
+                    "hits": 232048,
+                    "sessions": 146075
+                },
+                "wantToSeeCount": 433
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-20",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 89974,
+                    "lastName": "Rappeneau",
+                    "firstName": "Julien",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 844513,
+                            "lastName": "Debrabant",
+                            "firstName": "Ilan",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 21750,
+                            "lastName": "Rouve",
+                            "firstName": "Jean-Paul",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 196716,
+                            "lastName": "Lamy",
+                            "firstName": "Audrey",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 844513,
+                        "lastName": "Debrabant",
+                        "firstName": "Ilan",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 21750,
+                        "lastName": "Rouve",
+                        "firstName": "Jean-Paul",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 196716,
+                        "lastName": "Lamy",
+                        "firstName": "Audrey",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": true,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": true
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180723,
+                "startsAt": "2021-10-22T17:50:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23406?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180723,
+                "startsAt": "2021-10-22T17:50:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23406?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Lucien est un jeune po\u00e8te inconnu dans la France du XIX\u00e8me si\u00e8cle. Il a de grandes esp\u00e9rances et veut se forger un destin. Il quitte l\u2019imprimerie familiale de sa province natale pour tenter sa chance \u00e0 Paris, au bras de sa protectrice.",
+            "synopsisFull": "Lucien est un jeune po\u00e8te inconnu dans la France du XIX\u00e8me si\u00e8cle. Il a de grandes esp\u00e9rances et veut se forger un destin. Il quitte l\u2019imprimerie familiale de sa province natale pour tenter sa chance \u00e0 Paris, au bras de sa protectrice. Bient\u00f4t livr\u00e9 \u00e0 lui-m\u00eame dans la ville fabuleuse, le jeune homme va d\u00e9couvrir les coulisses d\u2019un monde vou\u00e9 \u00e0 la loi du profit et des faux-semblants. Une com\u00e9die humaine o\u00f9 tout s\u2019ach\u00e8te et se vend, la litt\u00e9rature comme la presse, la politique comme les sentiments, les r\u00e9putations comme les \u00e2mes. Il va aimer, il va souffrir, et survivre \u00e0 ses illusions.",
+            "__typename": "Movie",
+            "internalId": 273621,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NDUxNDg=",
+                "internalId": 21845148,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/08\/19\/11\/37\/0523511.jpg",
+                "path": "\/pictures\/21\/08\/19\/11\/37\/0523511.jpg"
+            },
+            "title": "Illusions Perdues",
+            "originalTitle": "Illusions Perdues",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 30min",
+            "genres": [{
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }, {
+                "id": 13015,
+                "translate": "Historique",
+                "tag": "HISTORICAL"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4.11,
+                    "count": 216
+                },
+                "userReview": {
+                    "count": 22
+                },
+                "pressReview": {
+                    "score": 4.1,
+                    "count": 30
+                },
+                "metric": {
+                    "hits": 311441,
+                    "sessions": 159785
+                },
+                "wantToSeeCount": 1448
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-20",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 22258,
+                    "lastName": "Giannoli",
+                    "firstName": "Xavier",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 786533,
+                            "lastName": "Voisin",
+                            "firstName": "Benjamin",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 40179,
+                            "lastName": "de France",
+                            "firstName": "C\u00e9cile",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 226163,
+                            "lastName": "Lacoste",
+                            "firstName": "Vincent",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 786533,
+                        "lastName": "Voisin",
+                        "firstName": "Benjamin",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 40179,
+                        "lastName": "de France",
+                        "firstName": "C\u00e9cile",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 226163,
+                        "lastName": "Lacoste",
+                        "firstName": "Vincent",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }, {
+                "__typename": "Country",
+                "id": 5014,
+                "name": "Belgium",
+                "localizedName": "Belgique"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": true,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": true
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180766,
+                "startsAt": "2021-10-22T13:20:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23384?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180834,
+                "startsAt": "2021-10-22T16:25:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23397?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180714,
+                "startsAt": "2021-10-22T19:35:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23411?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180856,
+                "startsAt": "2021-10-22T20:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23417?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180766,
+                "startsAt": "2021-10-22T13:20:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23384?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180834,
+                "startsAt": "2021-10-22T16:25:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23397?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180714,
+                "startsAt": "2021-10-22T19:35:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23411?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180856,
+                "startsAt": "2021-10-22T20:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23417?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Tout sourit \u00e0 Audrey et J\u00e9r\u00f4me. Ils ont trois merveilleux enfants et leurs m\u00e9tiers les passionnent. Le temps d\u2019un week-end, ils partent chacun de leur c\u00f4t\u00e9... Avec leurs amants respectifs. Sauf qu\u2019ils ont la m\u00eame id\u00e9e : aller dans leur maison de campagne !",
+            "synopsisFull": "Tout sourit \u00e0 Audrey et J\u00e9r\u00f4me. Ils ont trois merveilleux enfants et leurs m\u00e9tiers les passionnent. Le temps d\u2019un week-end, ils partent chacun de leur c\u00f4t\u00e9... Avec leurs amants respectifs. Sauf qu\u2019ils ont la m\u00eame id\u00e9e : aller dans leur maison de campagne. Quand ils se retrouvent nez \u00e0 nez, c\u0027est l\u0027explosion. Arrivent alors les parents d\u2019Audrey, puis leurs enfants et enfin sa s\u0153ur. Le quatuor n\u2019a pas d\u2019autre choix que jouer la com\u00e9die pour sauver les apparences. Mais tr\u00e8s vite le vernis et les nerfs craquent...",
+            "__typename": "Movie",
+            "internalId": 272765,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE3MDc3NjA=",
+                "internalId": 21707760,
+                "url": "https:\/\/fr.web.img3.acsta.net\/pictures\/21\/05\/26\/15\/28\/1144494.jpg",
+                "path": "\/pictures\/21\/05\/26\/15\/28\/1144494.jpg"
+            },
+            "title": "Tout nous sourit",
+            "originalTitle": "Tout nous sourit",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 41min",
+            "genres": [{
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 3.29,
+                    "count": 61
+                },
+                "userReview": {
+                    "count": 10
+                },
+                "pressReview": {
+                    "score": 3.36,
+                    "count": 11
+                },
+                "metric": {
+                    "hits": 308462,
+                    "sessions": 184995
+                },
+                "wantToSeeCount": 1669
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-20",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 562135,
+                    "lastName": "Drigeard",
+                    "firstName": "Melissa",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 1185,
+                            "lastName": "Zylberstein",
+                            "firstName": "Elsa",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 148102,
+                            "lastName": "De Groodt",
+                            "firstName": "St\u00e9phane",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 1532,
+                            "lastName": "Marchand",
+                            "firstName": "Guy",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 1185,
+                        "lastName": "Zylberstein",
+                        "firstName": "Elsa",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 148102,
+                        "lastName": "De Groodt",
+                        "firstName": "St\u00e9phane",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 1532,
+                        "lastName": "Marchand",
+                        "firstName": "Guy",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": true,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": true
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180805,
+                "startsAt": "2021-10-22T15:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23392?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180806,
+                "startsAt": "2021-10-22T17:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23404?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180807,
+                "startsAt": "2021-10-22T19:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23412?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180808,
+                "startsAt": "2021-10-22T22:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23423?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180805,
+                "startsAt": "2021-10-22T15:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23392?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180806,
+                "startsAt": "2021-10-22T17:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23404?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180807,
+                "startsAt": "2021-10-22T19:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23412?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180808,
+                "startsAt": "2021-10-22T22:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23423?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Tom Hardy est de retour sur grand \u00e9cran sous les traits de Venom, l\u0027un des personnages les plus complexes de l\u0027univers Marvel.",
+            "synopsisFull": "Tom Hardy est de retour sur grand \u00e9cran sous les traits de Venom, l\u0027un des personnages les plus complexes de l\u0027univers Marvel.",
+            "__typename": "Movie",
+            "internalId": 269758,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NTEyNDI=",
+                "internalId": 21851242,
+                "url": "https:\/\/fr.web.img2.acsta.net\/pictures\/21\/09\/01\/11\/19\/0900123.jpg",
+                "path": "\/pictures\/21\/09\/01\/11\/19\/0900123.jpg"
+            },
+            "title": "Venom: Let There Be Carnage",
+            "originalTitle": "Venom: Let There Be Carnage",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 38min",
+            "genres": [{
+                "id": 13025,
+                "translate": "Action",
+                "tag": "ACTION"
+            }, {
+                "id": 13012,
+                "translate": "Fantastique",
+                "tag": "FANTASY"
+            }],
+            "languages": ["ENGLISH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 2.34,
+                    "count": 545
+                },
+                "userReview": {
+                    "count": 63
+                },
+                "pressReview": {
+                    "score": 1.46,
+                    "count": 13
+                },
+                "metric": {
+                    "hits": 1360400,
+                    "sessions": 829875
+                },
+                "wantToSeeCount": 8989
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-20",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": {
+                    "label": "Interdit - 12 ans"
+                },
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 19053,
+                    "lastName": "Serkis",
+                    "firstName": "Andy",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 69924,
+                            "lastName": "Hardy",
+                            "firstName": "Tom",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 4062,
+                            "lastName": "Harrelson",
+                            "firstName": "Woody",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 28642,
+                            "lastName": "Williams",
+                            "firstName": "Michelle",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 69924,
+                        "lastName": "Hardy",
+                        "firstName": "Tom",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 4062,
+                        "lastName": "Harrelson",
+                        "firstName": "Woody",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 28642,
+                        "lastName": "Williams",
+                        "firstName": "Michelle",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": true,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": true
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180684,
+                "startsAt": "2021-10-22T13:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23381?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180685,
+                "startsAt": "2021-10-22T15:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23394?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180686,
+                "startsAt": "2021-10-22T17:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23405?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180687,
+                "startsAt": "2021-10-22T21:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23420?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }],
+            "original": [{
+                "__typename": "Showtime",
+                "internalId": 1339180678,
+                "startsAt": "2021-10-22T20:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23414?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180711,
+                "startsAt": "2021-10-22T22:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23424?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180684,
+                "startsAt": "2021-10-22T13:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23381?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180685,
+                "startsAt": "2021-10-22T15:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23394?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180686,
+                "startsAt": "2021-10-22T17:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23405?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180687,
+                "startsAt": "2021-10-22T21:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23420?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": true
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Un encha\u00eenement d\u2019incidents interpelle Sam le pompier et l\u2019agent de police Malcom alors qu\u2019un myst\u00e9rieux \u00ab\u00a0homme volant\u00a0\u00bb joue \u00e0 chaque fois les sauveurs in extremis. Pendant ce temps, l\u2019h\u00e9ro\u00efque \u00ab\u00a0super Nicolas\u00a0\u00bb cherche des personnes \u00e0 secourir mais visiblement, il ne trouve que des ennuis.",
+            "synopsisFull": "Un encha\u00eenement d\u2019incidents interpelle Sam le pompier et l\u2019agent de police Malcom alors qu\u2019un myst\u00e9rieux \u00ab\u00a0homme volant\u00a0\u00bb joue \u00e0 chaque fois les sauveurs in extremis. Pendant ce temps, l\u2019h\u00e9ro\u00efque \u00ab\u00a0super Nicolas\u00a0\u00bb cherche des personnes \u00e0 secourir mais visiblement, il ne trouve que des ennuis.",
+            "__typename": "Movie",
+            "internalId": 296494,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NTYxOTg=",
+                "internalId": 21856198,
+                "url": "https:\/\/fr.web.img5.acsta.net\/pictures\/21\/09\/20\/14\/21\/5696025.jpg",
+                "path": "\/pictures\/21\/09\/20\/14\/21\/5696025.jpg"
+            },
+            "title": "Sam le pompier \u0026 le myst\u00e9rieux Super-H\u00e9ros",
+            "originalTitle": "Sam le pompier \u0026 le myst\u00e9rieux Super-H\u00e9ros",
+            "type": "FEATURE_FILM",
+            "runtime": "0h 58min",
+            "genres": [{
+                "id": 13001,
+                "translate": "Aventure",
+                "tag": "ADVENTURE"
+            }, {
+                "id": 13026,
+                "translate": "Animation",
+                "tag": "ANIMATION"
+            }, {
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }, {
+                "id": 13036,
+                "translate": "Famille",
+                "tag": "FAMILY"
+            }],
+            "languages": null,
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 2.09,
+                    "count": 9
+                },
+                "userReview": {
+                    "count": 1
+                },
+                "pressReview": null,
+                "metric": {
+                    "hits": 37073,
+                    "sessions": 17221
+                },
+                "wantToSeeCount": 35
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [],
+                "nodes": []
+            },
+            "countries": [],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": false,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180792,
+                "startsAt": "2021-10-22T13:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23379?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "original": [],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180792,
+                "startsAt": "2021-10-22T13:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23379?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "A la mort de son grand p\u00e8re, Alma, jeune pianiste de 20 ans revient dans la maison de son enfance, perdue sur une \u00eele d\u00e9serte du Canada. L\u00e0, tout bascule quand un louveteau et un lionceau en d\u00e9tresse surgissent dans sa vie.",
+            "synopsisFull": "A la mort de son grand p\u00e8re, Alma, jeune pianiste de 20 ans revient dans la maison de son enfance, perdue sur une \u00eele d\u00e9serte du Canada. L\u00e0, tout bascule quand un louveteau et un lionceau en d\u00e9tresse surgissent dans sa vie. Elle choisit de les garder pour les sauver et l\u2019improbable se produit : ils grandissent ensemble et s\u2019aiment comme des fr\u00e8res. Mais leur monde id\u00e9al s\u2019\u00e9croule lorsque leur secret est d\u00e9couvert...",
+            "__typename": "Movie",
+            "internalId": 274585,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NDk4Nzc=",
+                "internalId": 21849877,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/08\/26\/11\/08\/3981369.jpg",
+                "path": "\/pictures\/21\/08\/26\/11\/08\/3981369.jpg"
+            },
+            "title": "Le Loup et le lion",
+            "originalTitle": "Le Loup et le lion",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 39min",
+            "genres": [{
+                "id": 13001,
+                "translate": "Aventure",
+                "tag": "ADVENTURE"
+            }, {
+                "id": 13036,
+                "translate": "Famille",
+                "tag": "FAMILY"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4,
+                    "count": 223
+                },
+                "userReview": {
+                    "count": 37
+                },
+                "pressReview": {
+                    "score": 2.91,
+                    "count": 11
+                },
+                "metric": {
+                    "hits": 564911,
+                    "sessions": 308144
+                },
+                "wantToSeeCount": 1159
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 38525,
+                    "lastName": "de Maistre",
+                    "firstName": "Gilles",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 561933,
+                            "lastName": "Kunz",
+                            "firstName": "Molly",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 82327,
+                            "lastName": "Greene (II)",
+                            "firstName": "Graham",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 491861,
+                            "lastName": "Carrick",
+                            "firstName": "Charlie",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 561933,
+                        "lastName": "Kunz",
+                        "firstName": "Molly",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 82327,
+                        "lastName": "Greene (II)",
+                        "firstName": "Graham",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 491861,
+                        "lastName": "Carrick",
+                        "firstName": "Charlie",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5018,
+                "name": "Canada",
+                "localizedName": "Canada"
+            }, {
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180903,
+                "startsAt": "2021-10-22T13:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23388?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180718,
+                "startsAt": "2021-10-22T16:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23395?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180903,
+                "startsAt": "2021-10-22T13:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23388?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180718,
+                "startsAt": "2021-10-22T16:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23395?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "A Paris, Simon et H\u00e9l\u00e8ne d\u00e9cident de vendre une cave dans l\u2019immeuble o\u00f9 ils habitent. Un homme, au pass\u00e9 trouble, l\u2019ach\u00e8te et s\u2019y installe sans pr\u00e9venir. Peu \u00e0 peu, sa pr\u00e9sence va bouleverser la vie du couple.",
+            "synopsisFull": "A Paris, Simon et H\u00e9l\u00e8ne d\u00e9cident de vendre une cave dans l\u2019immeuble o\u00f9 ils habitent. Un homme, au pass\u00e9 trouble, l\u2019ach\u00e8te et s\u2019y installe sans pr\u00e9venir. Peu \u00e0 peu, sa pr\u00e9sence va bouleverser la vie du couple.",
+            "__typename": "Movie",
+            "internalId": 287060,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4Mzk3NzM=",
+                "internalId": 21839773,
+                "url": "https:\/\/fr.web.img4.acsta.net\/pictures\/21\/09\/06\/16\/36\/3228155.jpg",
+                "path": "\/pictures\/21\/09\/06\/16\/36\/3228155.jpg"
+            },
+            "title": "L\u0027Homme de la cave",
+            "originalTitle": "L\u0027Homme de la cave",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 54min",
+            "genres": [{
+                "id": 13023,
+                "translate": "Thriller",
+                "tag": "THRILLER"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 2.85,
+                    "count": 221
+                },
+                "userReview": {
+                    "count": 41
+                },
+                "pressReview": {
+                    "score": 2.57,
+                    "count": 21
+                },
+                "metric": {
+                    "hits": 192625,
+                    "sessions": 95743
+                },
+                "wantToSeeCount": 392
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 20815,
+                    "lastName": "Le Guay",
+                    "firstName": "Philippe",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 2608,
+                            "lastName": "Cluzet",
+                            "firstName": "Fran\u00e7ois",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 24248,
+                            "lastName": "Renier",
+                            "firstName": "J\u00e9r\u00e9mie",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 24485,
+                            "lastName": "Bejo",
+                            "firstName": "B\u00e9r\u00e9nice",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 2608,
+                        "lastName": "Cluzet",
+                        "firstName": "Fran\u00e7ois",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 24248,
+                        "lastName": "Renier",
+                        "firstName": "J\u00e9r\u00e9mie",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 24485,
+                        "lastName": "Bejo",
+                        "firstName": "B\u00e9r\u00e9nice",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180887,
+                "startsAt": "2021-10-22T13:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23386?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180906,
+                "startsAt": "2021-10-22T16:20:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23396?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180887,
+                "startsAt": "2021-10-22T13:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23386?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180906,
+                "startsAt": "2021-10-22T16:20:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23396?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Pour tenter de renouer les liens familiaux,\u00a0Morticia et Gomez d\u00e9cident d\u2019embarquer Mercredi, Pugsley, Oncle F\u00e9tide et toute la bande dans leur camping-car hant\u00e9 et de prendre la route pour les derni\u00e8res tristes vacances en famille.",
+            "synopsisFull": "Dans cette nouvelle aventure, on retrouve Morticia et Gomez perdus face \u00e0 leurs enfants qui ont bien grandi, ils sautent les repas de famille, et ils passent leur temps riv\u00e9 \u00e0 leurs \u00e9crans. Pour tenter de renouer les liens familiaux, ils d\u00e9cident d\u2019embarquer Mercredi, Pugsley, Oncle F\u00e9tide et toute la bande dans leur camping-car hant\u00e9 et de prendre la route pour les derni\u00e8res tristes vacances en famille. Leurs aventures \u00e0 travers les Etats-Unis les sortent de de leurs rep\u00e8res familiers et les plongent dans des situations hilarantes avec leur iconique cousin, La Chose, bient\u00f4t rejoints par de nouveaux personnages farfelus. Mais qu\u2019est-ce qui pourrait mal finir ?",
+            "__typename": "Movie",
+            "internalId": 278122,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NTMyNzg=",
+                "internalId": 21853278,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/09\/08\/17\/02\/0899610.jpg",
+                "path": "\/pictures\/21\/09\/08\/17\/02\/0899610.jpg"
+            },
+            "title": "La Famille Addams 2 : une vir\u00e9e d\u0027enfer",
+            "originalTitle": "The Addams Family 2",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 33min",
+            "genres": [{
+                "id": 13026,
+                "translate": "Animation",
+                "tag": "ANIMATION"
+            }, {
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }, {
+                "id": 13036,
+                "translate": "Famille",
+                "tag": "FAMILY"
+            }],
+            "languages": ["ENGLISH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 1.88,
+                    "count": 140
+                },
+                "userReview": {
+                    "count": 13
+                },
+                "pressReview": {
+                    "score": 1.44,
+                    "count": 9
+                },
+                "metric": {
+                    "hits": 248230,
+                    "sessions": 139723
+                },
+                "wantToSeeCount": 714
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 496049,
+                    "lastName": "Tiernan",
+                    "firstName": "Greg",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }, {
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 62909,
+                    "lastName": "Vernon",
+                    "firstName": "Conrad",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 2
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": null,
+                        "voiceActor": {
+                            "__typename": "Person",
+                            "internalId": 499997,
+                            "lastName": "Adams",
+                            "firstName": "Kev",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "originalVoiceActor": {
+                            "__typename": "Person",
+                            "internalId": 147909,
+                            "lastName": "Isaac",
+                            "firstName": "Oscar",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": null,
+                        "voiceActor": {
+                            "__typename": "Person",
+                            "internalId": 45176,
+                            "lastName": "Bernier",
+                            "firstName": "M\u00e9lanie",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "originalVoiceActor": {
+                            "__typename": "Person",
+                            "internalId": 12563,
+                            "lastName": "Theron",
+                            "firstName": "Charlize",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": null,
+                        "voiceActor": null,
+                        "originalVoiceActor": {
+                            "__typename": "Person",
+                            "internalId": 104705,
+                            "lastName": "Moretz",
+                            "firstName": "Chlo\u00eb Grace",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": null,
+                    "voiceActor": {
+                        "__typename": "Person",
+                        "internalId": 499997,
+                        "lastName": "Adams",
+                        "firstName": "Kev",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "originalVoiceActor": {
+                        "__typename": "Person",
+                        "internalId": 147909,
+                        "lastName": "Isaac",
+                        "firstName": "Oscar",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "rank": 1
+                }, {
+                    "actor": null,
+                    "voiceActor": {
+                        "__typename": "Person",
+                        "internalId": 45176,
+                        "lastName": "Bernier",
+                        "firstName": "M\u00e9lanie",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "originalVoiceActor": {
+                        "__typename": "Person",
+                        "internalId": 12563,
+                        "lastName": "Theron",
+                        "firstName": "Charlize",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "rank": 2
+                }, {
+                    "actor": null,
+                    "voiceActor": null,
+                    "originalVoiceActor": {
+                        "__typename": "Person",
+                        "internalId": 104705,
+                        "lastName": "Moretz",
+                        "firstName": "Chlo\u00eb Grace",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180820,
+                "startsAt": "2021-10-22T13:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23382?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180861,
+                "startsAt": "2021-10-22T14:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23391?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180862,
+                "startsAt": "2021-10-22T16:50:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23399?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "original": [],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180820,
+                "startsAt": "2021-10-22T13:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23382?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180861,
+                "startsAt": "2021-10-22T14:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23391?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180862,
+                "startsAt": "2021-10-22T16:50:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23399?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Bas\u00e9 sur des \u00e9v\u00e9nements r\u00e9els, le film d\u00e9voile d\u2019anciennes hypoth\u00e8ses sur le dernier duel judiciaire connu en France - \u00e9galement nomm\u00e9 \u00ab Jugement de Dieu \u00bb - entre Jean de Carrouges et Jacques Le Gris, deux amis devenus au fil du temps des rivaux acharn\u00e9s.",
+            "synopsisFull": "D\u0027apr\u00e8s l\u0027ouvrage Le Dernier Duel : Paris, 29 d\u00e9cembre 1386 d\u0027Eric Jager.Bas\u00e9 sur des \u00e9v\u00e9nements r\u00e9els, le film d\u00e9voile d\u2019anciennes hypoth\u00e8ses sur le dernier duel judiciaire connu en France - \u00e9galement nomm\u00e9 \u00ab Jugement de Dieu \u00bb - entre Jean de Carrouges et Jacques Le Gris, deux amis devenus au fil du temps des rivaux acharn\u00e9s. Carrouges est un chevalier respect\u00e9, connu pour sa bravoure et son habilet\u00e9 sur le champ de bataille. Le Gris est un \u00e9cuyer normand dont l\u0027intelligence et l\u0027\u00e9loquence font de lui l\u0027un des nobles les plus admir\u00e9s de la cour. Lorsque Marguerite, la femme de Carrouges, est violemment agress\u00e9e par Le Gris - une accusation que ce dernier r\u00e9cuse - elle refuse de garder le silence, n\u2019h\u00e9sitant pas \u00e0 d\u00e9noncer son agresseur et \u00e0 s\u2019imposer dans un acte de bravoure et de d\u00e9fi qui met sa vie en danger. L\u0027\u00e9preuve de combat qui s\u0027ensuit - un \u00e9prouvant duel \u00e0 mort - place la destin\u00e9e de chacun d\u2019eux entre les mains de Dieu.",
+            "__typename": "Movie",
+            "internalId": 233330,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NDIzNjQ=",
+                "internalId": 21842364,
+                "url": "https:\/\/fr.web.img5.acsta.net\/pictures\/21\/07\/20\/19\/32\/2639242.jpg",
+                "path": "\/pictures\/21\/07\/20\/19\/32\/2639242.jpg"
+            },
+            "title": "Le Dernier duel",
+            "originalTitle": "The Last Duel",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 33min",
+            "genres": [{
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }, {
+                "id": 13015,
+                "translate": "Historique",
+                "tag": "HISTORICAL"
+            }],
+            "languages": ["ENGLISH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4.15,
+                    "count": 1252
+                },
+                "userReview": {
+                    "count": 146
+                },
+                "pressReview": {
+                    "score": 3.86,
+                    "count": 29
+                },
+                "metric": {
+                    "hits": 1141069,
+                    "sessions": 596964
+                },
+                "wantToSeeCount": 2934
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": {
+                    "label": "Interdit - 12 ans avec avertissement"
+                },
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 258,
+                    "lastName": "Scott",
+                    "firstName": "Ridley",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 1192,
+                            "lastName": "Damon",
+                            "firstName": "Matt",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 502681,
+                            "lastName": "Driver",
+                            "firstName": "Adam",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 606051,
+                            "lastName": "Comer",
+                            "firstName": "Jodie",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 1192,
+                        "lastName": "Damon",
+                        "firstName": "Matt",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 502681,
+                        "lastName": "Driver",
+                        "firstName": "Adam",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 606051,
+                        "lastName": "Comer",
+                        "firstName": "Jodie",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180912,
+                "startsAt": "2021-10-22T14:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23389?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "original": [{
+                "__typename": "Showtime",
+                "internalId": 1339180910,
+                "startsAt": "2021-10-22T17:20:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23403?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180912,
+                "startsAt": "2021-10-22T14:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23389?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Julie, bient\u00f4t 30 ans, n\u2019arrive pas \u00e0 se fixer dans la vie. Alors qu\u2019elle pense avoir trouv\u00e9 une certaine stabilit\u00e9 aupr\u00e8s d\u2019Aksel, 45 ans, auteur \u00e0 succ\u00e8s, elle rencontre le jeune et s\u00e9duisant Eivind.",
+            "synopsisFull": "Le film est pr\u00e9sent\u00e9 en comp\u00e9tition au Festival de Cannes 2021Julie, bient\u00f4t 30 ans, n\u2019arrive pas \u00e0 se fixer dans la vie. Alors qu\u2019elle pense avoir trouv\u00e9 une certaine stabilit\u00e9 aupr\u00e8s d\u2019Aksel, 45 ans, auteur \u00e0 succ\u00e8s, elle rencontre le jeune et s\u00e9duisant Eivind.",
+            "__typename": "Movie",
+            "internalId": 279214,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4MzAwNTc=",
+                "internalId": 21830057,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/09\/14\/17\/20\/4584599.png",
+                "path": "\/pictures\/21\/09\/14\/17\/20\/4584599.png"
+            },
+            "title": "Julie (en 12 chapitres)",
+            "originalTitle": "Verdens verste menneske",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 08min",
+            "genres": [{
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }, {
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }],
+            "languages": ["NORWEGIAN"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4.02,
+                    "count": 620
+                },
+                "userReview": {
+                    "count": 66
+                },
+                "pressReview": {
+                    "score": 4.19,
+                    "count": 36
+                },
+                "metric": {
+                    "hits": 456564,
+                    "sessions": 217054
+                },
+                "wantToSeeCount": 1129
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 187158,
+                    "lastName": "Trier",
+                    "firstName": "Joachim",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 554496,
+                            "lastName": "Reinsve",
+                            "firstName": "Renate",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 15549,
+                            "lastName": "Danielsen Lie",
+                            "firstName": "Anders",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 754877,
+                            "lastName": "Nordrum",
+                            "firstName": "Herbert",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 554496,
+                        "lastName": "Reinsve",
+                        "firstName": "Renate",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 15549,
+                        "lastName": "Danielsen Lie",
+                        "firstName": "Anders",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 754877,
+                        "lastName": "Nordrum",
+                        "firstName": "Herbert",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }, {
+                "__typename": "Country",
+                "id": 5067,
+                "name": "Sweden",
+                "localizedName": "Su\u00e8de"
+            }, {
+                "__typename": "Country",
+                "id": 5061,
+                "name": "Denmark",
+                "localizedName": "Danemark"
+            }, {
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }, {
+                "__typename": "Country",
+                "id": 5062,
+                "name": "Norway",
+                "localizedName": "Norv\u00e8ge"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [{
+                "__typename": "Showtime",
+                "internalId": 1339180840,
+                "startsAt": "2021-10-22T19:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.Norwegian", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23408?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "local": [],
+            "multiple": []
+        }
+    }, {
+        "movie": {
+            "synopsis": "L\u0027histoire de Paul Atreides, vou\u00e9 \u00e0 conna\u00eetre un destin hors du commun qui le d\u00e9passe totalement. Car s\u0027il veut pr\u00e9server l\u0027avenir de sa famille et de son peuple, il devra se rendre sur la plan\u00e8te la plus dangereuse de l\u0027univers.",
+            "synopsisFull": "L\u0027histoire de Paul Atreides, jeune homme aussi dou\u00e9 que brillant, vou\u00e9 \u00e0 conna\u00eetre un destin hors du commun qui le d\u00e9passe totalement. Car s\u0027il veut pr\u00e9server l\u0027avenir de sa famille et de son peuple, il devra se rendre sur la plan\u00e8te la plus dangereuse de l\u0027univers \u2013 la seule \u00e0 m\u00eame de fournir la ressource la plus pr\u00e9cieuse au monde, capable de d\u00e9cupler la puissance de l\u0027humanit\u00e9. Tandis que des forces mal\u00e9fiques se disputent le contr\u00f4le de cette plan\u00e8te, seuls ceux qui parviennent \u00e0 dominer leur peur pourront survivre\u2026",
+            "__typename": "Movie",
+            "internalId": 133392,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4NDU2NDY=",
+                "internalId": 21845646,
+                "url": "https:\/\/fr.web.img6.acsta.net\/pictures\/21\/08\/10\/12\/20\/4633954.jpg",
+                "path": "\/pictures\/21\/08\/10\/12\/20\/4633954.jpg"
+            },
+            "title": "Dune",
+            "originalTitle": "Dune",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 36min",
+            "genres": [{
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }, {
+                "id": 13021,
+                "translate": "Science Fiction",
+                "tag": "SCIENCE_FICTION"
+            }],
+            "languages": ["ENGLISH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4.36,
+                    "count": 10560
+                },
+                "userReview": {
+                    "count": 1451
+                },
+                "pressReview": {
+                    "score": 3.92,
+                    "count": 39
+                },
+                "metric": {
+                    "hits": 6534935,
+                    "sessions": 2834517
+                },
+                "wantToSeeCount": 15031
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2022-01-31",
+                    "precision": "day"
+                },
+                "name": "BluRay",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["PHYSICAL", "PHYSICAL_BLURAY"],
+                    "tagFlags": null
+                }
+            }, {
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-09-15",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 27087,
+                    "lastName": "Villeneuve",
+                    "firstName": "Denis",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 525421,
+                            "lastName": "Chalamet",
+                            "firstName": "Timoth\u00e9e",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 599594,
+                            "lastName": "Ferguson",
+                            "firstName": "Rebecca",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 147909,
+                            "lastName": "Isaac",
+                            "firstName": "Oscar",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 525421,
+                        "lastName": "Chalamet",
+                        "firstName": "Timoth\u00e9e",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 599594,
+                        "lastName": "Ferguson",
+                        "firstName": "Rebecca",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 147909,
+                        "lastName": "Isaac",
+                        "firstName": "Oscar",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": true,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": true,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180825,
+                "startsAt": "2021-10-22T13:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23385?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "original": [{
+                "__typename": "Showtime",
+                "internalId": 1339180867,
+                "startsAt": "2021-10-22T16:50:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23400?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180868,
+                "startsAt": "2021-10-22T20:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23413?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180825,
+                "startsAt": "2021-10-22T13:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23385?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Dans MOURIR PEUT ATTENDRE, Bond a quitt\u00e9 les services secrets et coule des jours heureux en Jama\u00efque. Mais sa tranquillit\u00e9 est de courte dur\u00e9e car son vieil ami Felix Leiter de la CIA d\u00e9barque pour solliciter son aide : il s\u0027agit de sauver un scientifique qui vient d\u0027\u00eatre kidnapp\u00e9.",
+            "synopsisFull": "Dans MOURIR PEUT ATTENDRE, Bond a quitt\u00e9 les services secrets et coule des jours heureux en Jama\u00efque. Mais sa tranquillit\u00e9 est de courte dur\u00e9e car son vieil ami Felix Leiter de la CIA d\u00e9barque pour solliciter son aide : il s\u0027agit de sauver un scientifique qui vient d\u0027\u00eatre kidnapp\u00e9. Mais la mission se r\u00e9v\u00e8le bien plus dangereuse que pr\u00e9vu et Bond se retrouve aux trousses d\u0027un myst\u00e9rieux ennemi d\u00e9tenant de redoutables armes technologiques\u2026",
+            "__typename": "Movie",
+            "internalId": 212358,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE3NTU2MzU=",
+                "internalId": 21755635,
+                "url": "https:\/\/fr.web.img4.acsta.net\/pictures\/21\/09\/09\/11\/06\/5284084.jpg",
+                "path": "\/pictures\/21\/09\/09\/11\/06\/5284084.jpg"
+            },
+            "title": "Mourir peut attendre",
+            "originalTitle": "No Time To Die",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 43min",
+            "genres": [{
+                "id": 13025,
+                "translate": "Action",
+                "tag": "ACTION"
+            }, {
+                "id": 13022,
+                "translate": "Espionnage",
+                "tag": "SPY"
+            }, {
+                "id": 13023,
+                "translate": "Thriller",
+                "tag": "THRILLER"
+            }],
+            "languages": ["ENGLISH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 3.76,
+                    "count": 5455
+                },
+                "userReview": {
+                    "count": 744
+                },
+                "pressReview": {
+                    "score": 3.03,
+                    "count": 40
+                },
+                "metric": {
+                    "hits": 6358537,
+                    "sessions": 3194987
+                },
+                "wantToSeeCount": 21679
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2022-02-28",
+                    "precision": "day"
+                },
+                "name": "BluRay",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["PHYSICAL", "PHYSICAL_BLURAY"],
+                    "tagFlags": null
+                }
+            }, {
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-06",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 248428,
+                    "lastName": "Fukunaga",
+                    "firstName": "Cary Joji",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 27049,
+                            "lastName": "Craig",
+                            "firstName": "Daniel",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 135438,
+                            "lastName": "Malek",
+                            "firstName": "Rami",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 149205,
+                            "lastName": "Seydoux",
+                            "firstName": "L\u00e9a",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 27049,
+                        "lastName": "Craig",
+                        "firstName": "Daniel",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 135438,
+                        "lastName": "Malek",
+                        "firstName": "Rami",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 149205,
+                        "lastName": "Seydoux",
+                        "firstName": "L\u00e9a",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }, {
+                "__typename": "Country",
+                "id": 5004,
+                "name": "United Kingdom",
+                "localizedName": "Grande-Bretagne"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": true,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": true,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [{
+                "__typename": "Showtime",
+                "internalId": 1339180702,
+                "startsAt": "2021-10-22T13:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23383?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180732,
+                "startsAt": "2021-10-22T16:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23398?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180771,
+                "startsAt": "2021-10-22T20:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23418?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "original": [{
+                "__typename": "Showtime",
+                "internalId": 1339180726,
+                "startsAt": "2021-10-22T13:40:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23387?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180751,
+                "startsAt": "2021-10-22T17:10:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23401?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180752,
+                "startsAt": "2021-10-22T20:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.English", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23415?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "local": [],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180702,
+                "startsAt": "2021-10-22T13:15:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23383?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180732,
+                "startsAt": "2021-10-22T16:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23398?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180771,
+                "startsAt": "2021-10-22T20:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23418?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Technicien au BEA, Mathieu Vasseur est propuls\u00e9 enqu\u00eateur en chef sur une catastrophe a\u00e9rienne sans pr\u00e9c\u00e9dent. L\u2019analyse minutieuse des bo\u00eetes noires va pousser Mathieu \u00e0 mener en secret sa propre investigation...",
+            "synopsisFull": "Que s\u2019est-il pass\u00e9 \u00e0 bord du vol Duba\u00ef-Paris avant son crash dans le massif alpin ? Technicien au BEA, autorit\u00e9 responsable des enqu\u00eates de s\u00e9curit\u00e9 dans l\u2019aviation civile, Mathieu Vasseur est propuls\u00e9 enqu\u00eateur en chef sur une catastrophe a\u00e9rienne sans pr\u00e9c\u00e9dent. Erreur de pilotage ? D\u00e9faillance technique ? Acte terroriste ? L\u2019analyse minutieuse des bo\u00eetes noires va pousser Mathieu \u00e0 mener en secret sa propre investigation. Il ignore encore jusqu\u2019o\u00f9 va le mener sa qu\u00eate de v\u00e9rit\u00e9.",
+            "__typename": "Movie",
+            "internalId": 274204,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4MzY0MDc=",
+                "internalId": 21836407,
+                "url": "https:\/\/fr.web.img4.acsta.net\/pictures\/21\/06\/24\/18\/11\/2856544.jpg",
+                "path": "\/pictures\/21\/06\/24\/18\/11\/2856544.jpg"
+            },
+            "title": "Bo\u00eete noire",
+            "originalTitle": "Bo\u00eete noire",
+            "type": "FEATURE_FILM",
+            "runtime": "2h 09min",
+            "genres": [{
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }, {
+                "id": 13023,
+                "translate": "Thriller",
+                "tag": "THRILLER"
+            }],
+            "languages": ["FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 4.24,
+                    "count": 4869
+                },
+                "userReview": {
+                    "count": 528
+                },
+                "pressReview": {
+                    "score": 3.79,
+                    "count": 33
+                },
+                "metric": {
+                    "hits": 2407419,
+                    "sessions": 1151774
+                },
+                "wantToSeeCount": 4985
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-09-08",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 181956,
+                    "lastName": "Gozlan",
+                    "firstName": "Yann",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 1
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 228780,
+                            "lastName": "Niney",
+                            "firstName": "Pierre",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 59440,
+                            "lastName": "Azoulay",
+                            "firstName": "Anne",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 14457,
+                            "lastName": "Recoing",
+                            "firstName": "Aur\u00e9lien",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 228780,
+                        "lastName": "Niney",
+                        "firstName": "Pierre",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 59440,
+                        "lastName": "Azoulay",
+                        "firstName": "Anne",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 14457,
+                        "lastName": "Recoing",
+                        "firstName": "Aur\u00e9lien",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": true,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180901,
+                "startsAt": "2021-10-22T19:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23409?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180838,
+                "startsAt": "2021-10-22T21:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23421?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180901,
+                "startsAt": "2021-10-22T19:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23409?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180838,
+                "startsAt": "2021-10-22T21:45:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23421?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }, {
+        "movie": {
+            "synopsis": "Venant tout juste de terminer sa collaboration sur la Statue de la Libert\u00e9, Gustave Eiffel est au sommet de sa carri\u00e8re. Le gouvernement fran\u00e7ais veut qu\u2019il cr\u00e9e quelque chose de spectaculaire pour l\u2019Exposition Universelle de 1889 \u00e0 Paris, mais Eiffel ne s\u2019int\u00e9resse qu\u2019au projet de m\u00e9tropolitain.",
+            "synopsisFull": "Venant tout juste de terminer sa collaboration sur la Statue de la Libert\u00e9, Gustave Eiffel est au sommet de sa carri\u00e8re. Le gouvernement fran\u00e7ais veut qu\u2019il cr\u00e9e quelque chose de spectaculaire pour l\u2019Exposition Universelle de 1889 \u00e0 Paris, mais Eiffel ne s\u2019int\u00e9resse qu\u2019au projet de m\u00e9tropolitain. Tout bascule lorsqu\u0027il recroise son amour de jeunesse. Leur relation interdite l\u2019inspire \u00e0 changer l\u2019horizon de Paris pour toujours.",
+            "__typename": "Movie",
+            "internalId": 254015,
+            "poster": {
+                "__typename": "InternalImage",
+                "id": "SW1hZ2U6MjE4MjgxNjY=",
+                "internalId": 21828166,
+                "url": "https:\/\/fr.web.img2.acsta.net\/pictures\/21\/05\/27\/10\/05\/2153213.jpg",
+                "path": "\/pictures\/21\/05\/27\/10\/05\/2153213.jpg"
+            },
+            "title": "Eiffel",
+            "originalTitle": "Eiffel",
+            "type": "FEATURE_FILM",
+            "runtime": "1h 49min",
+            "genres": [{
+                "id": 13027,
+                "translate": "Biopic",
+                "tag": "BIOPIC"
+            }, {
+                "id": 13005,
+                "translate": "Com\u00e9die",
+                "tag": "COMEDY"
+            }, {
+                "id": 13008,
+                "translate": "Drame",
+                "tag": "DRAMA"
+            }],
+            "languages": ["ENGLISH", "FRENCH"],
+            "data": {
+                "__typename": "MovieData",
+                "seo": {
+                    "__typename": "Seo",
+                    "browsable": true
+                }
+            },
+            "stats": {
+                "userRating": {
+                    "score": 3.32,
+                    "count": 1201
+                },
+                "userReview": {
+                    "count": 184
+                },
+                "pressReview": {
+                    "score": 2.83,
+                    "count": 30
+                },
+                "metric": {
+                    "hits": 929275,
+                    "sessions": 452657
+                },
+                "wantToSeeCount": 4368
+            },
+            "editorialReviews": [],
+            "releases": [{
+                "__typename": "MovieRelease",
+                "releaseDate": {
+                    "__typename": "PartialDate",
+                    "date": "2021-10-13",
+                    "precision": "day"
+                },
+                "name": "Released",
+                "certificate": null,
+                "companyLimitation": null,
+                "releaseTags": {
+                    "tagTypes": ["THEATER"],
+                    "tagFlags": null
+                }
+            }],
+            "credits": [{
+                "person": {
+                    "__typename": "Person",
+                    "internalId": 682356,
+                    "lastName": "Bourboulon",
+                    "firstName": "Martin",
+                    "seo": {
+                        "browsable": true
+                    }
+                },
+                "position": {
+                    "__typename": "Position",
+                    "name": "DIRECTOR",
+                    "department": "DIRECTION"
+                },
+                "rank": 2
+            }],
+            "cast": {
+                "__typename": "castMemberConnection",
+                "edges": [{
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 17028,
+                            "lastName": "Duris",
+                            "firstName": "Romain",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 1
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 859102,
+                            "lastName": "Mackey",
+                            "firstName": "Emma",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 2
+                    }
+                }, {
+                    "node": {
+                        "actor": {
+                            "__typename": "Person",
+                            "internalId": 220884,
+                            "lastName": "Deladonchamps",
+                            "firstName": "Pierre",
+                            "seo": {
+                                "browsable": true
+                            }
+                        },
+                        "voiceActor": null,
+                        "originalVoiceActor": null,
+                        "rank": 3
+                    }
+                }],
+                "nodes": [{
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 17028,
+                        "lastName": "Duris",
+                        "firstName": "Romain",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 1
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 859102,
+                        "lastName": "Mackey",
+                        "firstName": "Emma",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 2
+                }, {
+                    "actor": {
+                        "__typename": "Person",
+                        "internalId": 220884,
+                        "lastName": "Deladonchamps",
+                        "firstName": "Pierre",
+                        "seo": {
+                            "browsable": true
+                        }
+                    },
+                    "voiceActor": null,
+                    "originalVoiceActor": null,
+                    "rank": 3
+                }]
+            },
+            "countries": [{
+                "__typename": "Country",
+                "id": 5001,
+                "name": "France",
+                "localizedName": "France"
+            }, {
+                "__typename": "Country",
+                "id": 5129,
+                "name": "Germany",
+                "localizedName": "Allemagne"
+            }, {
+                "__typename": "Country",
+                "id": 5002,
+                "name": "USA",
+                "localizedName": "U.S.A."
+            }],
+            "flags": {
+                "hasDvdRelease": false,
+                "hasNews": true,
+                "hasOnlineProduct": false,
+                "hasOnlineRelease": false,
+                "hasPhysicalProduct": false,
+                "hasPreview": false,
+                "hasShowtime": true,
+                "hasSoundtrack": false,
+                "hasTheaterRelease": true,
+                "hasTrivia": true,
+                "isClub300Approved": false,
+                "isComingSoon": false,
+                "isPlayingNow": true,
+                "tvRelease": false
+            },
+            "customFlags": {
+                "isPremiere": false,
+                "weeklyOuting": false
+            }
+        },
+        "showtimes": {
+            "dubbed": [],
+            "original": [],
+            "local": [{
+                "__typename": "Showtime",
+                "internalId": 1339180776,
+                "startsAt": "2021-10-22T14:40:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23390?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180777,
+                "startsAt": "2021-10-22T17:05:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23402?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180738,
+                "startsAt": "2021-10-22T19:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23410?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180739,
+                "startsAt": "2021-10-22T22:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23422?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }],
+            "multiple": [{
+                "__typename": "Showtime",
+                "internalId": 1339180776,
+                "startsAt": "2021-10-22T14:40:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23390?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180777,
+                "startsAt": "2021-10-22T17:05:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23402?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180738,
+                "startsAt": "2021-10-22T19:30:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23410?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }, {
+                "__typename": "Showtime",
+                "internalId": 1339180739,
+                "startsAt": "2021-10-22T22:00:00",
+                "timeBeforeStart": "PT0H0M0S",
+                "service": null,
+                "experience": null,
+                "comfort": null,
+                "projection": ["DIGITAL"],
+                "picture": null,
+                "sound": null,
+                "tags": ["Localization.Language.French", "Format.Projection.Digital"],
+                "data": {
+                    "__typename": "ShowtimeData",
+                    "ticketing": [{
+                        "__typename": "Ticketing",
+                        "urls": ["https:\/\/s.cinemaspathegaumont.com\/#\/V3343S23422?utm_source=allocine\u0026utm_medium=allocine\u0026utm_campaign=partenaire-allocine\u0026partenaire=allocine"],
+                        "type": "DESKTOP",
+                        "provider": "default"
+                    }]
+                },
+                "isPreview": false,
+                "isWeeklyMovieOuting": false
+            }]
+        }
+    }],
+    "nextDate": "2021-10-22",
+    "params": {
+        "experience": null,
+        "projection": null,
+        "comfort": null,
+        "picture": null,
+        "sound": null,
+        "version": null,
+        "page": 1
+    },
+    "facets": {
+        "facets": [{
+            "__typename": "Facets",
+            "name": "showtimes.projection",
+            "values": [{
+                "key": "Digital",
+                "translation": {
+                    "tag": "DIGITAL",
+                    "name": "Num\u00e9rique"
+                }
+            }]
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.experience",
+            "values": []
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.comfort",
+            "values": []
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.version",
+            "values": [{
+                "key": "Local",
+                "version": "LOCAL"
+            }, {
+                "key": "Dubbed",
+                "version": "DUBBED"
+            }, {
+                "key": "Original",
+                "version": "ORIGINAL"
+            }]
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.picture",
+            "values": []
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.sound",
+            "values": []
+        }, {
+            "__typename": "Facets",
+            "name": "showtimes.service",
+            "values": []
+        }]
+    },
+    "pagination": {
+        "page": "1",
+        "totalPages": 1,
+        "itemsPerPage": 15,
+        "totalItems": 14
+    },
+    "data": null
+}
