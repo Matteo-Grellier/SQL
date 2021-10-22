@@ -1,5 +1,16 @@
--- INSERT INTO Reservation
--- VALUES ('Grellier' , 1, 1)
+-- INSERT INTO Role
+-- VALUES ('Hadoulf Hackerman', 1, 8)
 
-ALTER TABLE Seance
-RENAME COLUMN Fk_FilmID TO FK_FilmID;
+
+
+
+
+
+
+
+
+
+
+
+
+
